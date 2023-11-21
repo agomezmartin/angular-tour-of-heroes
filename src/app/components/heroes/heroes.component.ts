@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Hero } from '../../hero';
+import { Hero } from '../../data/interface/hero';
 import { HeroService } from '../../services/hero.service';
 import { MessageService } from '../../services/message.service';
 
